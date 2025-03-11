@@ -21,7 +21,8 @@ The model processes the data and makes predictions.
 View the forecasted sales and trends on interactive dashboards.
 
 🎯 Live Demo
-🔗 Try the App: E-commerce Prediction App
+
+🔗 Try the App:E-commerce Prediction App
 
 🛠 Installation & Usage
 Clone the Repository
@@ -39,5 +40,6 @@ e-commerce-prediction-app/
 │-- model.pkl                 # Trained ML Model  
 │-- data/                     # Sample datasets  
 │-- README.md                 # Documentation  
+
 🤝 Contributing
 Want to improve this project? Feel free to fork and submit a PR!
