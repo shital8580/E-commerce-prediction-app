@@ -1,6 +1,7 @@
 🛒 E-commerce Sales Prediction App
 
 📌 Overview
+
 The E-commerce Sales Prediction App is a machine learning-powered tool designed to predict sales trends, customer behavior, and revenue for online stores. Built using Streamlit, it enables users to analyze key factors affecting e-commerce sales.
 
 🚀 Features
